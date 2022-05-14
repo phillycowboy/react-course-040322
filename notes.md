@@ -6,3 +6,5 @@ rm -rf . git // Remove git tracking.
 
 
 AND EVERY NEW PROJECT WITHIN THE COURSE MAKE A NEW BRANCH! 
+
+hello there
