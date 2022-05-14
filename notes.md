@@ -8,4 +8,3 @@ AND EVERY NEW PROJECT WITHIN THE COURSE MAKE A NEW BRANCH!
 npx create-react-app my-app
 
 hello there
-
